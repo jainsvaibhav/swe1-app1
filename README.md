@@ -5,3 +5,5 @@
 
 
 [![Build Status](https://app.travis-ci.com/jainsvaibhav/swe1-app1.svg?branch=main)](https://app.travis-ci.com/jainsvaibhav/swe1-app1)
+
+Deployment link - http://django-env-final.eba-jhb3bhvf.us-west-2.elasticbeanstalk.com/
